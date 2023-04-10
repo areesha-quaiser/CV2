@@ -1,0 +1,23 @@
+body {
+    background-color: #F5EBEB;
+}
+
+h1 {
+    color: #867070;
+    font-family: script mt;
+    font-size: 45px;
+}
+
+h3 {
+    color: #867070;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #BDCDD6;
+    border-width: 5px;
+    width: 5%;
+}
+
+img {background-color: #F5EBEB;}
